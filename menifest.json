@@ -1,0 +1,16 @@
+{
+    "manifest_version":3,
+    "name":"Color Picker Extension",
+    "description":"The Color Picker Extension is a powerful and intuitive tool designed to streamline your color selection process and enhance your creative workflow. Whether you're a web designer, graphic artist, or simply someone who loves playing with colors, this extension is a must-have addition to your toolkit.",
+    "version":"1.0",
+    "action":{
+        "default_popup":"index.html"
+    },
+    "icons":{
+        "16":"color-picker.png",
+        "32":"color-picker.png",
+        "48":"color-picker.png",
+        "128":"color-picker.png"
+    }
+    
+    }
